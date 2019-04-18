@@ -25,7 +25,7 @@ SECRET_KEY = '8=&la*lz#!ukn0_s3q#y-svmt&z$#et$vwub$-ahw!8$*(rgz$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['157.230.53.211', '.pharmarose.net']
 
 
 # Application definition
