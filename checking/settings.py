@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '8=&la*lz#!ukn0_s3q#y-svmt&z$#et$vwub$-ahw!8$*(rgz$'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['157.230.53.211', '.pharmarose.net']
 
